@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\lenovo\desktop\official\numbermazesolver\assignment6\source.cpp(301): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\desktop\official\numbermazesolver\assignment6\source.cpp(311): warning C4018: '<': signed/unsigned mismatch
+  Assignment6.vcxproj -> C:\Users\lenovo\Desktop\Official\NumberMazeSolver\Debug\Assignment6.exe
+  Assignment6.vcxproj -> C:\Users\lenovo\Desktop\Official\NumberMazeSolver\Debug\Assignment6.pdb (Full PDB)

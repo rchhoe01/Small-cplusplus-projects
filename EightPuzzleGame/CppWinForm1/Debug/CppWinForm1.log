@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\netbook\documents\visual studio 2015\projects\eightpuzzlegame\cppwinform1\MyForm.h(194): warning C4551: function call missing argument list
+c:\users\netbook\documents\visual studio 2015\projects\eightpuzzlegame\cppwinform1\MyForm.h(214): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  CppWinForm1.vcxproj -> C:\Users\netbook\Documents\Visual Studio 2015\Projects\EightPuzzleGame\Debug\CppWinForm1.exe
+  CppWinForm1.vcxproj -> C:\Users\netbook\Documents\Visual Studio 2015\Projects\EightPuzzleGame\Debug\CppWinForm1.pdb (Full PDB)
